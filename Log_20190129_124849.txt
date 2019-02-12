@@ -1,0 +1,4 @@
+[3] 12:48:49 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\ToscaTraining\ToscaTraining.tws'
+[3] 12:48:49 PM: Log level: 4
+[3] 12:48:49 PM: Release: 12.0.0.19268
+[4] 12:48:49 PM:  ShowStatusInfo: 'Ready'
